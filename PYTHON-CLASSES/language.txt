@@ -1,0 +1,24 @@
+#Python
+space1 = 100 // written instruction to alocate space 
+space2 = 200
+space3 = space1 + space2
+print(space3) // Python2
+print space3 // python3
+
+#javascript
+let  space1 = 100;
+let  space2 = 200;
+let space3 = space1 + space2
+
+
+#c++
+int space1 = 100;
+int space2 = 200;
+int space3 = space1 + space2;
+
+#vb
+dim space1 = 100;
+dim space2 = 200;
+dim space3 = space1 + space2;
+
+

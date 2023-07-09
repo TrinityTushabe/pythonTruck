@@ -1,0 +1,33 @@
+Python is a modular programing language in a sense that anyone can add another functionality (we can add features in python)
+What is a module in python 
+A module is a folder that has a python script of files that can be reused.
+python packages(library )or module. 
+Each library has a specfic function
+The core of python is pil
+Python anaconada is another distribution of python
+Python has distributions of python 
+a combination of python and c is cpy(cpython)
+How to make a valid library in python
+-create __init__.py
+
+
+A python package is a folder that contains  __init__.py which is most times empty
+to use the package we first import it 
+Python has got repository that contains packages that can be downloaded and installed for reuse using a known python manager called pip
+pip is a tool that we use to locate download any python packages..
+Python has some packages that we use for web applications forexamples  django
+pip is a package manager..
+
+pil gives us the interpreter
+idle 
+
+code snippets are suggested by the text editor
+
+nested conditions are conditions within a conditions
+
+
+switch cases : 
+
+
+
+
